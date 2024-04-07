@@ -42,6 +42,13 @@
         <mapper resource="com/itheima/mapper/ProductMapper.xml" />
         <mapper resource="com/itheima/mapper/CategoryMapper.xml" />
         <mapper class="com.itheima.dao.WorkerMapper" />
+        <mapper class="com.itheima.dao.IdCardMapper" />
+        <mapper class="com.itheima.dao.PersonMapper" />
+        <mapper class="com.itheima.dao.UsersMapper" />
+        <mapper class="com.itheima.dao.OrdersMapper" />
+        <mapper class="com.itheima.dao.ProductMapper" />
+        <mapper class="com.itheima.dao.StudentMapper" />
+        <mapper class="com.itheima.dao.ClassMapper" />
 
     </mappers>
 
